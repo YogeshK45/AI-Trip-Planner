@@ -17,9 +17,6 @@ AI Trip Planner combines **Google Gemini AI**, **OpenStreetMap**, and **OSRM rou
 ## Links
 
 - **Live Application**: [https://trips-planner-blue.vercel.app/](https://trips-planner-blue.vercel.app/)
-- **Video Demo**: [https://youtu.be/2isgUskJNqY](https://youtu.be/2isgUskJNqY)
-- **Portfolio**: [https://harshlad.vercel.app/](https://harshlad.vercel.app/)
-
 ---
 
 ## Problem Statement
@@ -255,7 +252,7 @@ AI-TripPlanner/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ladHarsh/AI-TripPlanner.git
+git clone https://github.com/YogeshK45/AI-Trip-Planner.git
 cd AI-TripPlanner
 
 # 2. Install all dependencies
@@ -505,20 +502,17 @@ NODE_ENV=production npm start
 
 ---
 
-## License
 
-This project is licensed under the **MIT License**.
 
 ---
 
 ## Author
 
-**Harsh Lad**  
+**Yogesh Kumar**  
 Full Stack & AI Engineer
 
-- **GitHub**: [@ladHarsh](https://github.com/ladHarsh)
-- **Portfolio**: [harshlad.vercel.app](https://harshlad.vercel.app/)
-- **Email**: harshlad.dev@gmail.com
+- **GitHub**: [@YogeshK45](https://github.com/YogeshK45)
+- 
 
 ---
 
@@ -538,12 +532,11 @@ Full Stack & AI Engineer
 
 If you encounter issues:
 
-1. Check the [Issues](https://github.com/ladHarsh/AI-TripPlanner/issues) page
+1. Check the [Issues](https://github.com/YogeshK45/AI-Trip-Planner/issues) page
 2. Create a new issue with detailed information
-3. Contact: harshlad.dev@gmail.com
 
 ---
 
 **AI Trip Planner** — Practical AI-assisted travel planning with real-world, free data.
 
-Made with ❤️ by Harsh Lad
+Made with ❤️ by Yogesh Kumar
